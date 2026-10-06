@@ -1,15 +1,15 @@
 # Hi, I'm H Mohamed Hansath 
 
-### Full Stack Developer | Python & React | FastAPI | MySQL | AWS Cloud
+### Junior Full Stack Developer | Python | FastAPI | React.js | MySQL | AWS
 
-BCA graduate with hands-on knowledge of full-stack web development and cloud technologies. I enjoy building practical web applications and learning modern development and cloud technologies.
+BCA graduate with 3 months of hands-on Full Stack Development internship experience and practical project experience. I build responsive web applications, REST APIs, and database-driven systems using modern development technologies.
 
 ##  Technical Skills
 
 - **Languages:** Python, JavaScript (ES6+)
-- **Frontend:** React.js, HTML, CSS
-- **Backend:** FastAPI
-- **Database:** MySQL
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap
+- **Backend:** FastAPI, REST APIs
+- **Database:** MySQL, SQL, Firebase
 - **Cloud:** AWS EC2, S3, VPC, RDS, IAM
 - **DevOps:** Docker, Kubernetes, Jenkins
 - **Tools:** Git, GitHub
@@ -18,32 +18,48 @@ BCA graduate with hands-on knowledge of full-stack web development and cloud tec
 ##  Projects
 
 ### Car Rental Management System
-Full-stack car rental management project built with React, Python, FastAPI, and MySQL.
+
+Full-stack car rental management system with separate Admin and User workflows and an end-to-end booking process.
+
+- React.js frontend
+- Python & FastAPI backend
+- MySQL database
+- CRUD operations
+- Booking validation and vehicle availability management
+- Admin-side booking and user management
 
 🔗 [GitHub](https://github.com/Mohamedhansath/car-rental)  
 🌐 [Live Demo](https://car-rental-seven-ochre.vercel.app/)
 
 ### Gym Management System
-Gym management project with a responsive React frontend and management-focused features for members, payments, and dashboard operations.
+
+Responsive gym management web application with management-focused features for members, payments, and dashboard operations.
 
 🔗 [GitHub](https://github.com/Mohamedhansath/gym)  
 🌐 [Live Demo](https://gym-woad-kappa.vercel.app/)
 
 ##  Experience
 
-**Full Stack Developer Intern — Vebbox Software Solutions Pvt. Ltd.**  
-May 2026 – August 2026
+**Full Stack Development Intern — Vebbox Software Solutions Pvt. Ltd.**  
+**February 2026 – April 2026**
 
 - Worked with React.js, JavaScript, Python, FastAPI, and MySQL.
-- Gained practical exposure to full-stack web development.
-- Worked with AWS cloud services and Docker.
-- Practiced development and deployment workflows.
+- Developed responsive frontend interfaces and backend REST APIs.
+- Worked with SQL queries and database operations using MySQL.
+- Gained hands-on exposure to AWS services including EC2, S3, VPC, RDS, and IAM.
+- Practiced Docker containerization and gained familiarity with Kubernetes, Jenkins, and Linux.
 
 ##  Education
 
 **Bachelor of Computer Applications (BCA)**  
 Annai College of Arts & Science, Kumbakonam  
-2022 – 2025
+**2022 – 2026**
+
+##  Certifications
+
+- Full Stack Development Internship — Vebbox Software Solutions Pvt. Ltd.
+- Python, MySQL, Firebase, FastAPI, GitHub & AWS
+- HTML, CSS, Bootstrap, JavaScript & React JS
 
 ##  Connect With Me
 
