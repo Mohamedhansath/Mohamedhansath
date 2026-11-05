@@ -31,7 +31,7 @@ A browser-based resume review workspace that extracts PDF text, checks resume se
 A responsive job-search organiser with application status tracking, dashboard summaries, search, filters, interview/follow-up dates, notes, and JSON backup/restore. Data is stored locally in the browser.
 
 - **Stack:** React, Vite, JavaScript, CSS, LocalStorage
-- [GitHub Repository](https://github.com/Mohamedhansath/smart-job-application-tracker) · [Live Website](https://smart-job-application-tracker.vercel.app/)
+- [GitHub Repository](https://github.com/Mohamedhansath/smart-job-application-tracker) · [Live Website](https://smart-job-application-tracker-tan.vercel.app/)
 
 ### 4. Car Rental Management System
 A vehicle-rental demo with car browsing, vehicle details, customer flows, booking management, and admin screens for managing cars, users, and bookings. The maintained frontend demo stores its data in browser LocalStorage.
